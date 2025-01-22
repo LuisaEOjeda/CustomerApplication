@@ -1,0 +1,1 @@
+{"ast":null,"code":"export class Customer {\n  CustomerCode = \"\";\n  CustomerName = \"\";\n  CustomerAmount = 0;\n}","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}
